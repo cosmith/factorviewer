@@ -65,6 +65,7 @@ function drawCircle(top, left, radius, color) {
 }
 
 function draw() {
+    canvas.width = canvas.width;
     // print the factorization
     n = document.getElementById('number').value;
     f = factor(n);
