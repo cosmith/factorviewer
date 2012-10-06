@@ -1,3 +1,3 @@
 #Factorviewer
 
-Checkout the gh-pages branch.
+See the gh-pages branch.
